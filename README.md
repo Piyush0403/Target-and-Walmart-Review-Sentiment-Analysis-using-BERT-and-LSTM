@@ -29,10 +29,10 @@ NLP & ML Techniques
    - Random Forest (Best Model)
 
 # Key Results
-## Random Forest achieved the best results:
+- Random Forest achieved the best results:
   - Walmart: 94.08% accuracy
   - Target: 96.7% accuracy
-# Key Issues Identified
+- Key Issues Identified
   - Negative themes: Stockouts, rude staff, dirty stores, checkout delays
   - Positive themes: Price drops, friendly service, clean layout
 
